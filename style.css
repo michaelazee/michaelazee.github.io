@@ -1,0 +1,48 @@
+header {
+	background: url('503988A3-A788-4B6A-A9B7-83A024C4C8F8.jpg');
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+img {
+	border: 5px solid white;
+	border-radius: 50%;
+}
+
+h1 {
+	font-size: 50px;
+	color: purple;
+	margin-top: 20px;
+}
+
+h3 {
+	font-size: 40px;
+	margin-top: 50px;
+}
+
+h1, h3 {
+	font-family: 'Gayathri', sans-serif;
+}
+
+p {
+	line-height: 1.6;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
+ul {
+	background: black;
+	text-align: center;
+	padding: 10px;
+}
+
+li {
+	display: inline;
+	margin: 30px;
+}
+
+div {
+	width: 70%;
+	margin: 0 auto;
+}
