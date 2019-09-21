@@ -23,6 +23,11 @@ h3 {
 	margin-top: 50px;
 }
 
+h5 {
+	font-size: 20px;
+	text-align: center;
+}
+
 h1, h3, h5 {
 	font-family: "Courier New", monospace;
 }
