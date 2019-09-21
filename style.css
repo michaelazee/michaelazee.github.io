@@ -23,8 +23,8 @@ h3 {
 	margin-top: 50px;
 }
 
-h1, h3 {
-	font-family: "courier new", monospace;
+h1, h3, h5 {
+	font-family: "Courier New", monospace;
 }
 
 p {
