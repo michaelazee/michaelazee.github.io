@@ -35,12 +35,12 @@ p {
 
 ul {
 	text-align: center; 
-	background: white;
 	padding: 10px;
 }
 
 li {
 	display: inline;
+	background: white; 
 	margin: 30px;
 }
 
