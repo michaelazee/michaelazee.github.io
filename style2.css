@@ -1,6 +1,7 @@
 header {
 	padding-top: 50px;
 	padding-bottom: 50px;
+	font-family: "Courier New", monospace;
 }
 
 img {
@@ -16,13 +17,7 @@ h1 {
 	text-align: center; 
 }
 
-h3 {
-	font-size: 40px;
-	text-align: center;
-	margin-top: 50px;
-}
-
-h1, h3 {
+h1 {
 	font-family: "Courier New", monospace;
 }
 
