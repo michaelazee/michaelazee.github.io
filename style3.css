@@ -23,8 +23,10 @@ p {
 	line-height: 1.6;
 	font-size: 15px;
 	margin-top: 35px;
+}
+
+.right {
 	text-align: right;
-	display: right;
 }
 
 h1, p {
