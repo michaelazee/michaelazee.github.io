@@ -8,6 +8,7 @@ header {
 img {
 	border: 5px solid black;
 	border-radius: 50%;
+	padding-left: 50px;
 }
 
 h1 {
@@ -28,6 +29,7 @@ h1, h3 {
 
 ul {
 	padding: 10px;
+	display: inline;
 }
 
 li {
