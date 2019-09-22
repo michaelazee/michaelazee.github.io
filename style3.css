@@ -1,6 +1,7 @@
 header {
 	padding-top: 50px;
 	padding-bottom: 50px;
+	text-align: center; 
 	display: inline;
 }
 
@@ -24,6 +25,16 @@ h3 {
 h1, h3 {
 	font-family: "Courier New", monospace;
 }
+
+ul {
+	padding: 10px;
+}
+
+li {
+	display: inline;
+	margin: 30px;
+	font-family: "Courier New", monospace;
+	margin-bottom: 20px;
 
 p {
 	line-height: 1.6;
