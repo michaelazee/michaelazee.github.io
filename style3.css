@@ -26,17 +26,6 @@ h1, h3 {
 	font-family: "Courier New", monospace;
 }
 
-ul {
-	padding: 10px;
-	display: inline;
-}
-
-li {
-	display: inline;
-	margin: 30px;
-	font-family: "Courier New", monospace;
-	margin-bottom: 20px;
-
 p {
 	line-height: 1.6;
 	font-size: 20px;
