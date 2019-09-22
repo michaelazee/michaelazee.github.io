@@ -9,7 +9,7 @@ header {
 img {
 	border: 5px solid black;
 	border-radius: 50%;
-	padding-left: 60px;
+	padding-left: 75px;
 }
 
 h1 {
@@ -32,6 +32,12 @@ p {
 	line-height: 1.6;
 	font-size: 15px;
 	margin-top: 50px;
+	font-family: "Courier New", monospace;
+}
+
+br { 
+	line-height: 1.6;
+	font-size: 15px;
 	font-family: "Courier New", monospace;
 }
 
