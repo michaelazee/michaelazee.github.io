@@ -4,8 +4,8 @@ header {
 }
 
 img {
-	border: 5px solid white;
-	display: center;
+	border: 5px solid black;
+	text-align: center;
 	border-radius: 50%;
 }
 
