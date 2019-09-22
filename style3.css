@@ -1,5 +1,5 @@
 header {
-	padding-top: 50px;
+	padding-top: 60px;
 	padding-bottom: 50px;
 	margin-top: 40px;
 	display: inline;
@@ -9,13 +9,13 @@ header {
 img {
 	border: 5px solid black;
 	border-radius: 50%;
-	padding-left: 75px;
+	padding-left: 60px;
 }
 
 h1 {
 	font-size: 50px;
 	margin-top: 20px; 
-	padding-left: 60px;
+	padding-left: 75px;
 }
 
 p {
