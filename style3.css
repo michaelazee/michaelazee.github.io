@@ -24,6 +24,7 @@ p {
 	font-size: 15px;
 	margin-top: 35px;
 	text-align: right;
+	display: right;
 }
 
 h1, p {
