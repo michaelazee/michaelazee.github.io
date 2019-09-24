@@ -53,6 +53,26 @@ li {
 	margin-bottom: 20px;
 }
 
+/* unvisited link */
+a:link {
+	color: blue;
+}
+
+/* visited link */
+a:visited {
+	color: purple;
+}
+
+/* mouse over link */
+a:hover {
+	color: pink;
+}
+
+/* selected link */
+a:active {
+	color: orange;
+}
+
 div {
 	width: 70%;
 	margin: 0 auto;
