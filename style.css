@@ -5,11 +5,6 @@ header {
 	padding-bottom: 50px;
 }
 
-.container {
-  position: relative;
-  width: 50%;
-}
-
 img {
 	border: 5px solid white;
 	display: inline;
