@@ -71,7 +71,7 @@ p {
 	margin-left: 15px;
 }
 
-h1, p, blockquote, br {
+h1, p, br, blockquote {
 	font-family: "Courier New", monospace;
 }
 
