@@ -38,6 +38,7 @@ div.gallery {
   float: left;
   width: 180px;
   text-align: center;
+ margin-left: 20px;
 }
 
 div.gallery:hover {
