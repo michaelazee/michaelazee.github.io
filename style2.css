@@ -54,6 +54,7 @@ li {
 
 div.gallery {
   border: 1px solid #ccc;
+ display: inline;
 }
 
 div.gallery:hover {
@@ -63,6 +64,7 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
+ display: inline;
 }
 
 div.desc {
