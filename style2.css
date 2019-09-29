@@ -35,7 +35,7 @@ li {
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: center;
+  float: left;
   width: 180px;
 }
 
@@ -46,6 +46,9 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
+   display: block;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 div.desc {
