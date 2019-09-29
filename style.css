@@ -7,7 +7,8 @@ header {
 
 .container {
   position: relative;
-  width: auto;
+  width: 50%;
+border-radius: 50%;
 }
 
 img {
@@ -27,7 +28,7 @@ img {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: white;
 }
 
 .container:hover .overlay {
