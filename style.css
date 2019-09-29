@@ -15,7 +15,7 @@ header {
 /* Make the image to responsive */
 img {
 	border: 5px solid white;
-	display: inline;
+	display: block;
 	text-align: center;
 	width: 100%;
 	height: auto;
