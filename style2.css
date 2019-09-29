@@ -49,6 +49,7 @@ li {
   width: 50%;
   height: 50%;
   border-radius: 50%;
+ display: inline;
 }
 
 .container .btn {
