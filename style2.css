@@ -3,16 +3,6 @@ header {
 	font-family: "Courier New", monospace;
 }
 
-img {
-	border: 5px solid white;
-	display: inline;
-	text-align: center;
-	position; relative;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
 h1 {
 	font-size: 50px;
 	margin-top: 20px;
