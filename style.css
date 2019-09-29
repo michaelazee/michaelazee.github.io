@@ -9,7 +9,7 @@ img {
 	border-radius: 50%;
 	display: inline;
 	text-align: center;
-	border-color: white;
+	borde: 5px solid white;
 }
 
 img:hover {
