@@ -46,8 +46,9 @@ li {
 }
 
 .container img {
-  width: 50%;
-  height: auto;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }
 
 .container .btn {
