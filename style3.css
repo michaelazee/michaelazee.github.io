@@ -49,7 +49,7 @@ h1, p {
 .button:hover {background-color: purple}
 
 .button:active {
-  background-color: #3e8e41;
+  background-color: blue ;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
