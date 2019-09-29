@@ -33,9 +33,10 @@ li {
 }
 
 div.gallery {
+ padding-top: 50px;
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
+  float: center;
   width: 180px;
 }
 
