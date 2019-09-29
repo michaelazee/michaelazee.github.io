@@ -16,7 +16,7 @@ header {
     width: 100%;
     height: auto;
     text-align: center;
-    padding-left: 50px;
+    display: inline;
   }
   
   .overlay {
