@@ -7,6 +7,13 @@ img {
 	border: 5px solid white;
 	display: inline;
 	text-align: center;
+	position; relative;
+	float: left;
+	width: 100px;
+	height: 100px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 h1 {
