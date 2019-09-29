@@ -42,11 +42,6 @@ li {
 	margin-bottom: 20px;
 }
 
-.thumbnail img {
-	height: 250px;
-	width: 100%;
-}
-
 .center {
 	display: block;
 	margin-left: auto;
