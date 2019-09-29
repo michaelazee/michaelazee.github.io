@@ -5,45 +5,40 @@ header {
 	padding-bottom: 50px;
 }
 
-.container {
+.img {
+  border-radius: 100%;
+  display: flex;
+  flex: 0 0 150px;
+  height: 150px;
+  justify-content: center;
+  overflow: hidden;
   position: relative;
-  border-radius: 25%;
+  width: 150px;
 }
 
-img {
-	border: 5px solid white;
-	display: inline;
-	text-align: center;
-	border-radius: 50%;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
+.img__overlay {
+  align-items: center;
   bottom: 0;
+  display: flex;
+  justify-content: center;
   left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
   opacity: 0;
-  transition: .5s ease;
-  background-color: white;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: opacity 0.25s;
+  z-index: 1;
 }
 
-.container:hover .overlay {
+.img__overlay:hover {
   opacity: 1;
 }
 
-.text {
-  color: black;
+.img__overlay {
+  background-color: white;
+  background: linear-gradient(65deg, rgba(46,204,113,0.4), rgba(243,156,18,0.4));
+  color: #fafafa;
   font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
 }
 
 h1 {
