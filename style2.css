@@ -42,7 +42,7 @@ li {
 .container {
   position: relative;
   width: 50%;
-  max-width: 400px;
+  max-width: auto;
 }
 
 .container img {
