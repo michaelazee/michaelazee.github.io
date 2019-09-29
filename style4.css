@@ -16,8 +16,14 @@ header {
     width: 100%;
     height: auto;
     text-align: center;
-    display: inline;
   }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
   
   .overlay {
     position: absolute;
