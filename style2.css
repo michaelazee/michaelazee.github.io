@@ -64,7 +64,7 @@ div.desc {
 
 /* unvisited link */
 a:link {
-	color: blue;
+	color: pink;
 }
 
 /* visited link */
@@ -74,12 +74,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-	color: pink;
+	color: blue;
 }
 
 /* selected link */
 a:active {
-	color: green;
+	color: red;
 }
 
 div {
