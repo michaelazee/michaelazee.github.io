@@ -65,12 +65,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-	color: blue;
+	color: red;
 }
 
 /* selected link */
 a:active {
-	color: red;
+	color: blue;
 }
 
 div {
