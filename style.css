@@ -54,6 +54,10 @@ li {
 	margin-bottom: 20px;
 }
 
+a {
+text-decoration: none;
+}
+
 /* unvisited link */
 a:link {
 	color: pink;
