@@ -4,6 +4,7 @@ header {
 }
 
 img {
+	border-radius: 50%;
 	display: inline;
 	text-align: center;
 }
