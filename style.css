@@ -4,11 +4,8 @@ header {
 }
 
 img {
-	border-radius: 50%;
 	display: inline;
 	text-align: center;
-	border: 5px solid white;
-	margin: 10px;
 }
 
 h1 {
