@@ -1,9 +1,4 @@
-  document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.tap-target');
-    var instances = M.TapTarget.init(elems, options);
-  });
-
-  instance.next();
-  instance.next(3); // Move next n times.
-
- instance.close();
+document.addEventListener('DOMContentLoaded', function() {
+  var elems = document.querySelectorAll('.parallax');
+  var instances = M.Parallax.init(elems);
+});
