@@ -38,7 +38,7 @@ p {
 
 ul {
 	text-align: center; 
-	background: white; 
+	background: black; 
 	padding: 10px;
 }
 
@@ -55,17 +55,17 @@ text-decoration: none;
 
 /* unvisited link */
 a:link {
-	color: pink;
+	color: white;
 }
 
 /* visited link */
 a:visited {
-	color: purple;
+	color: white;
 }
 
 /* mouse over link */
 a:hover {
-	color: red;
+	color: pink;
 }
 
 /* selected link */
