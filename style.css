@@ -41,6 +41,7 @@ ul {
 
 li {
 	display: inline;
+	margin: 30px;
 	font-family: "Courier New", monospace;
 }
 
