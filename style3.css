@@ -9,6 +9,7 @@ header {
 img {
 	border: 5px solid black;
 	border-radius: 50%;
+	max-width: 100%;
 }
 
 .responsive {
