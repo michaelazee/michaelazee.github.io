@@ -67,7 +67,7 @@ a {
   box-sizing: border-box;
 }
 #page-nav ul li a {
-  color: white;
+  color: pink;
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ a {
   /* Show Hamburger */
   #page-nav label {
     display: inline-block;
-    color: white;
+    color: pink;
     background: black;
     font-style: normal;
     font-size: 1.2em;
