@@ -33,8 +33,9 @@ h1 {
 	font-family: "Courier New", monospace;
 }
 
-li, ul { 
+a { 
 font-family: "Courier New", monospace;
+text-decoration: none;	
 }
 
 p {
