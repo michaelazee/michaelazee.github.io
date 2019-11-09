@@ -9,6 +9,8 @@ header {
 img {
 	border: 5px solid black;
 	border-radius: 50%;
+	text-align: center; 
+	display: inline;
 }
 
 h1 {
