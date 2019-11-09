@@ -123,3 +123,10 @@ a:hover {
 a:active {
 	color: blue;
 }
+
+/* [DOES NOT MATTER] */
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: "Didact Gothic", sans-serif;
+}
