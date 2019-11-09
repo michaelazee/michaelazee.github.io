@@ -26,7 +26,7 @@ p {
 	padding-left; 30px;
 }
 
-h1, p {
+h1 {
 	font-family: "Courier New", monospace;
 }
 
@@ -73,7 +73,87 @@ a:active {
 	color: blue;
 }
 
-div {
-	width: 70%;
-	margin: 0 auto;
+p, ul, li {
+font-family: "Courier New," monospace;
+}
+
+nav {
+background-color: black; 
+}
+
+a { 
+	text-decoration; none;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+}
+
+/* [ON BIG SCREEN] */
+/* Wrapper */
+#page-nav {
+  width: 100%;
+  background: black;
+  /* If you want the navigation bar to stick on top
+  position: sticky;
+  top: 0;
+  */
+}
+
+/* Hide Hamburger */
+#page-nav label, #hamburger {
+  display: none;
+}
+
+/* Menu Items */
+#page-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
+}
+#page-nav ul li {
+  display: inline-block;
+  padding: 10px;
+  box-sizing: border-box;
+}
+#page-nav ul li a {
+  color: pink;
+  text-decoration: none;
+}
+
+/* [ON SMALL SCREENS] */
+@media screen and (max-width: 768px){
+  /* Show Hamburger */
+  #page-nav label {
+    display: inline-block;
+    color: pink;
+    background: black;
+    font-style: normal;
+    font-size: 1.2em;
+    padding: 10px;
+  }
+
+  /* Break down menu items into vertical */
+  #page-nav ul li {
+    display: block;
+  }
+  #page-nav ul li {
+    border-top: 1px solid #333;
+  }
+
+  /* Toggle show/hide menu on checkbox click */
+  #page-nav ul {
+    display: none;
+  }
+  #page-nav input:checked ~ ul {
+    display: block;
+  }
 }
